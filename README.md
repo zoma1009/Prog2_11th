@@ -10,5 +10,5 @@
 
 ３．プログラム結果を保存し，ファイルをGitHubに保存する
 
-４．GitHubに掲載したプログラムを常盤宛ににpull requestする
+４．GitHubに掲載したプログラムを私宛ににpull requestする
 
